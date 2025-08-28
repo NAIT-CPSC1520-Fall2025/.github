@@ -2,7 +2,10 @@
 
 This organization is for the Fall 2025 delivery of **CPSC-1520** in the Digital Media and IT (*DMIT*) program at NAIT. To access the members-only resources, you need to be logged into GitHub.
 
-> If you are new to GitHub, consider reading this article, ["What are Code Repositories?"]
+> If you are new to GitHub, consider reading these articles:
+> 
+> - ["What are Code Repositories?"](https://github.com/resources/articles/software-development/what-are-code-repositories)
+> - ["What is Version Control?"](https://github.com/resources/articles/software-development/what-is-version-control)
 
 ## New Students
 
